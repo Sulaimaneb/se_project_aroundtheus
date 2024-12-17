@@ -34,7 +34,7 @@
   justify-content: space-between;
 }
 
-.card__Like-button {
+.card__like-button {
   background: transparent url(../images/Like-inactive.svg) center no-repeat;
   width: 40px;
   height: 18px;
